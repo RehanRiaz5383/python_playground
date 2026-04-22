@@ -1,8 +1,8 @@
 Order_ID,Date,Product,Category,Price,Quantity,Payment_Method
-ORD-10001,2025-05-14,MacBook Air M2,Laptop,396538,5,JazzCash
+ORD-10001,2025-05-14,MacBook Air M2,Laptop,,,JazzCash
 ORD-10002,2025-05-07,Sony WH-1000XM5,Accessories,94182,1,EasyPaisa
 ORD-10003,2025-05-19,iPhone 15,Mobile,321269,4,JazzCash
-ORD-10004,2026-01-16,Airpods Pro,Accessories,51859,5,Credit Card
+ORD-10004,2026-01-16,Airpods Pro,Accessories,,,Credit Card
 ORD-10005,2025-07-02,Airpods Pro,Accessories,58606,2,Credit Card
 ORD-10006,2025-07-01,Sony WH-1000XM5,Accessories,103490,1,Cash
 ORD-10007,2026-03-22,iPhone 15,Mobile,309388,4,Cash
