@@ -36,7 +36,7 @@ response = client.chat.completions.create(
     model="gemini-2.5-flash",
     messages=[
         {"role":"system", "content":SYSTEM_PROMPT},
-        {"role": "user", "content": "Can you please explain (a+b)^2?"},
+        {"role": "user", "content": "How do i calculate square in python?"},
     ]
 )
 print(response.choices[0].message.content)
